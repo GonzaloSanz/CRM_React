@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Beatriz",
+      "empresa": "El Corte Inglés",
+      "email": "beatriz@elcorteingles.es",
+      "telefono": "678594403"
+    },
+    {
+      "id": 2,
+      "nombre": "Jorge",
+      "empresa": "Microsoft",
+      "email": "jorge@microsoft.es",
+      "telefono": "609090012"
+    },
+    {
+      "id": 3,
+      "nombre": "David",
+      "empresa": "Sony Entertainment",
+      "email": "david@sony.net",
+      "telefono": "666891102",
+      "notas": "Mantenimiento de su aplicación"
+    },
+    {
+      "id": 4,
+      "nombre": "Lara",
+      "empresa": "Taco Bell",
+      "email": "lara@tacobell.com",
+      "telefono": "678594483"
+    },
+    {
+      "id": 5,
+      "nombre": "Rodrigo",
+      "empresa": "Mercadona",
+      "email": "rodrigo@mercadona.es",
+      "telefono": "87678678",
+      "notas": "Necesita una tienda para su negocio"
+    },
+    {
+      "id": 6,
+      "nombre": "Juan",
+      "empresa": "Carrefour",
+      "email": "juan@carrefour.com",
+      "telefono": "678987765",
+      "notas": "Reunión pendiente"
+    }
+  ]
+}
