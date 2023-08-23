@@ -1,2 +1,1 @@
-# CRM-Clientes
-Proyecto realizado con Vite, React, Tailwind CSS. REST API y React Router DOM
+Proyecto realizado con React, React Router DOM, Tailwind CSS, JSON Server y Vite
